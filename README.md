@@ -6,10 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the Young Activists App
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on small projects to get  my hands dirty and continue coding while progressing as an Product Manager 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Product Management, kite surfing and things to do in Berlin 
-- 📫 How to reach me: www.linkedin.com/in/theresa-schöttl-4b90a8139
+- 🌱 I’m currently learning Web Development after the bootcamp at Le Wagon
+- 👯 I’m looking to collaborate on small projects to get  my hands dirty and continue coding while progressing as a Product Manager 
+- 📫 How to reach me: www.linkedin.com/in/theresa-schöttl-tsch
 - ⚡ Fun fact: I love to kite surf 
 -->
